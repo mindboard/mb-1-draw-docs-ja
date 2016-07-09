@@ -1,0 +1,104 @@
+= イントロダクション
+
+これはAndroidタブレット向けのシンプルなイラスト作成ツールです。
+
+image::screenshots/mb-draw.png[title="mindboard draw"]
+
+
+== Key Features 
+
+* 指を使ってフリーハンドでイラスト作成できます。
+* PDFにエクスポートできます。
+* ファイルマネージャのグリッドタイプ : 4x4, 5x5, 6x6, 7x7, 8x8, 9x9, 10x10
+* ファイル順はドラッグアンドドロップで変更できます。
+* 描く、消す、アンドゥ、リドゥ、拡大縮小、スクロールをサポート。
+* ８色まで使用できます。
+* Nexus7 / GALAXY Note / Acer ICONIA Tab で作動確認。
+
+
+== インストール
+
+Google Play で https://play.google.com/store/apps/details?id=com.mindboardapps.app.draw.free[MindBoard (Draw) App] を入手してください。
+
+
+= Usage
+
+== Overview
+
+ファイルマネージャとエディタの２つの画面から構成されています。
+
+
+=== ファイルマネージャ
+
+image::screenshots/finder.png[title="file manager"]
+
+* ファイルを管理するための画面です。
+* ファイルアイコンをダブルタップしてエディタ画面に入ります。
+
+
+=== エディタ
+
+image::screenshots/editor.png[title="editor"]
+
+* イラスト編集画面です。
+* ファイルマネージャに戻るには、Androidのバックキーをタップします。
+
+
+== 詳細
+
+=== ファイルマネージャ
+
+image::screenshots/finder.png[title="finder"]
+
+* *イラストの追加* ... Tap the Add button in the upper left (+).
+* *イラストのコピー* ... Select a drawing to copy by tapping it.And then tap the Copy icon on the toolbar.
+* *イラストの削除* ... Select a drawing to delete by tapping it.And then tap the Delete icon on the toolbar.
+* *イラストアイコンの並べ替え* ... Drag and drop the drawing to change order.
+* *グリッド数の変更* ... Using the slider in the upper right corner.You can change up from 4x4 to 10x10.
+
+
+=== エディタ
+
+image::screenshots/editor.png[title="editor"]
+
+* *ペンモード* ... イラストを描きます
+* *消しゴムモード* ... イラストを消します
+* *スクロール* ... 一本指で地の部分をドラッグします
+* *拡大縮小* ... 二本指でピンチイン / アウトします
+* *アンドゥ* ... アンドゥします
+* *リドゥ* ... リドゥします
+* *色の変更* ... Select a icon of colour from the palette.
+* *ペンの太さの変更* ... Use the slider on the action bar.
+* *PDFエクスポート* ... Select PDF export menu item o n the action bar.
+
+
+= 付録
+
+== FAQ
+
+=== MindBoard Draw の無料版と有料版の違いは？
+
+無料版は２つの制限があります。
+
+* 25ファイルまでのイラストに制限
+* PDFにウォーターマークを追加
+
+この２つ以外に違いはありません。
+
+
+=== 無料版から有料版にアップグレードするときにどのようにデータを移行しますか？
+
+ファイルマネージャのデータ管理メニューを使います。
+
+
+==== Instructions
+
+ステップ1 : 無料版を起動します。
+
+. データ管理メニューアイテムを選択。
+. データ管理ダイアログで、データのエクスポートを選択して、OKをタップします。
+
+ステップ2 : 有料版を起動します。
+
+. データ管理メニューアイテムを選択。
+. データ管理ダイアログで、データのインポートを選択して、OKをタップします。
