@@ -5,7 +5,7 @@
 image::screenshots/mb-draw.png[title="mindboard draw"]
 
 
-== Key Features 
+== 主な特長
 
 * 指を使ってフリーハンドでイラスト作成できます。
 * PDFにエクスポートできます。
@@ -21,9 +21,9 @@ image::screenshots/mb-draw.png[title="mindboard draw"]
 Google Play で https://play.google.com/store/apps/details?id=com.mindboardapps.app.draw.free[MindBoard (Draw) App] を入手してください。
 
 
-= Usage
+= 使い方
 
-== Overview
+== 概要
 
 ファイルマネージャとエディタの２つの画面から構成されています。
 
@@ -48,7 +48,7 @@ image::screenshots/editor.png[title="editor"]
 
 === ファイルマネージャ
 
-image::screenshots/finder.png[title="finder"]
+image::screenshots/finder.png[title="file manager"]
 
 * *イラストの追加* ... Tap the Add button in the upper left (+).
 * *イラストのコピー* ... Select a drawing to copy by tapping it.And then tap the Copy icon on the toolbar.
@@ -67,9 +67,9 @@ image::screenshots/editor.png[title="editor"]
 * *拡大縮小* ... 二本指でピンチイン / アウトします
 * *アンドゥ* ... アンドゥします
 * *リドゥ* ... リドゥします
-* *色の変更* ... Select a icon of colour from the palette.
-* *ペンの太さの変更* ... Use the slider on the action bar.
-* *PDFエクスポート* ... Select PDF export menu item o n the action bar.
+* *色の変更* ... アクションバー上のパレットから色を選択します
+* *ペンの太さの変更* ... アクションバー上のスライダーで変更します
+* *PDFエクスポート* ... PDFエクスポートメニューアイテムをタップします
 
 
 = 付録
@@ -91,7 +91,7 @@ image::screenshots/editor.png[title="editor"]
 ファイルマネージャのデータ管理メニューを使います。
 
 
-==== Instructions
+==== 操作手順
 
 ステップ1 : 無料版を起動します。
 
